@@ -1,2 +1,2 @@
 # Person-Description-Class
- This JavaScript code defines a class called "Personne" with a constructor that initializes two properties: "nom" (name) and "age". 
+ This JavaScript code defines a class called "Personne" with a constructor that initializes two properties: "nom" (name) and "age".The class also has a method called "decrire" which logs the person's name and age. An instance of the "Personne" class named "test" is created with the name "marieme" and age 20, and its "decrire" method is called, displaying the person's description.
